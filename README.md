@@ -15,7 +15,7 @@
 - Logrithm time  -> O(logn) ```Binary Search ```
 - Quadratic time -> O<sup>2</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}```
 - Cubic time     -> O<sup>3</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}}```
-- ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_350,w_500/v1733297836/Screenshot_2147_udu0s9.png) ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_250,w_250/v1733298823/Screenshot_2148_mgydei.png) ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_250,w_250/v1733298831/Screenshot_2150_hsa43b.png)
+- ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_300,w_300/v1733297836/Screenshot_2147_udu0s9.png) ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_250,w_250/v1733298823/Screenshot_2148_mgydei.png) ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_250,w_250/v1733298831/Screenshot_2150_hsa43b.png)
   
 ### Space Complexity
 -  space complexity measures how much memory an algorithm uses to complete its task, and
