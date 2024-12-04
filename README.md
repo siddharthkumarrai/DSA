@@ -15,5 +15,5 @@
 - Logrithm time  -> O(logn) ```Binary Search ```
 - Quadratic time -> O<sup>2</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}```
 - Cubic time     -> O<sup>3</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}}```
-- ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_400,w_500/v1733297836/Screenshot_2147_udu0s9.png)
+- ![Alt text](https://res.cloudinary.com/dnknslaku/image/upload/h_350,w_500/v1733297836/Screenshot_2147_udu0s9.png)
 
