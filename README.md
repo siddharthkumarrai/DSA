@@ -1,8 +1,8 @@
 # DSA
 
 ### Time Complexity
--> It is the amount of time taken by an algorithm to run
--> as a function of length of the input
+- It is the amount of time taken by an algorithm to run
+- as a function of length of the input
 
 #### represent
 -  Big O notations ( Upper Bound )
