@@ -10,9 +10,9 @@
 -  Omega Ω         ( Lower Bound )
 
 #### representation
-- Conatant time  -> O(1) ```javascript for(let i=0; i<=10; i++){}```
-- Linear time    -> O(n)  ```javascript for(let i=0; i<=n; i++){}```
-- Logrithm time  -> O(logn) ```javscript Binary Search ```
-- Quadratic time -> O<sup>2</sup> ```javascript for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}```
-- Cubic time     -> O<sup>3</sup> ```javascript for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}}```
+- Conatant time  -> O(1) ```for(let i=0; i<=10; i++){}```
+- Linear time    -> O(n)  ```for(let i=0; i<=n; i++){}```
+- Logrithm time  -> O(logn) ```Binary Search ```
+- Quadratic time -> O<sup>2</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}```
+- Cubic time     -> O<sup>3</sup> ```for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){for(let i=0; i<=n; i++){}}}```
 
